@@ -11,12 +11,12 @@ Data-driven researcher who is passionate about collaboration, innovation, and le
 - Appropriate coursework: Data Science for Biomedical Engineers, Programming for Engineers, Reinforcement Learning
 - Interested in Machine Learning, Deep Learning, and AI 🦾
 
-Programming Skills  
+#### Programming Skills  
 Proficient: Python | MATLAB | C/C++ | LabView  
 Familiar: Java | SQL
 
-Tools and Software  
-Visual Studio Code | Jupyter | Git | QtCreator | Qualtrics | Adobe Suite | Fusion 360
+#### Tools and Software  
+Visual Studio Code | Jupyter | Git | PyCharm | QtCreator | Qualtrics | Adobe Suite | Fusion 360
 
 ### Education
 Biomedical Engineering, PhD (In-Progress) @ University of Utah  
@@ -24,10 +24,14 @@ Biomedical Engineering, MS (In-Progress) @ University of Utah
 Biomedical Engineering, BS @ University of Utah  
 
 ### Certification
-Graduate Certificate in Deep Learning (In-Progress) (University of Utah) [[Certification Homepage](https://www.cs.utah.edu/graduate/academic-programs/certificate-programs/graduate-certificate-in-deep-learning/)]  
-Reinforcement Learning Specialization (University of Alberta & Alberta Machine Intelligence Institute) [[Specialization Homepage](https://www.coursera.org/specializations/reinforcement-learning)] [[View Certificate](https://www.coursera.org/verify/specialization/CWUW9VCJAC87)]  
-Data Science Professional (DataCamp) [[Course Homepage](https://www.datacamp.com/tracks/data-scientist-professional-with-python)] [[View Certificate](https://www.datacamp.com/certificate/DS0020609141286)]  
-Machine Learning Scientist (DataCamp) [[Course Homepage](https://www.datacamp.com/tracks/machine-learning-scientist-with-python)][[View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/8b3cc836625f4ce083af49e5f01d0038ee2aeee7)]
+Graduate Certificate in Deep Learning (In-Progress) (University of Utah)  
+[[Certification Homepage](https://www.cs.utah.edu/graduate/academic-programs/certificate-programs/graduate-certificate-in-deep-learning/)]  
+Reinforcement Learning Specialization (University of Alberta & Alberta Machine Intelligence Institute)  
+[[Specialization Homepage](https://www.coursera.org/specializations/reinforcement-learning)] [[View Certificate](https://www.coursera.org/verify/specialization/CWUW9VCJAC87)]  
+Data Science Professional (DataCamp)  
+[[Course Homepage](https://www.datacamp.com/tracks/data-scientist-professional-with-python)] [[View Certificate](https://www.datacamp.com/certificate/DS0020609141286)]  
+Machine Learning Scientist (DataCamp)  
+[[Course Homepage](https://www.datacamp.com/tracks/machine-learning-scientist-with-python)][[View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/8b3cc836625f4ce083af49e5f01d0038ee2aeee7)]  
   
 ### Research Experience
 Graduate Research Assistant @ NERVES Lab  
