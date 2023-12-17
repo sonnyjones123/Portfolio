@@ -1,5 +1,3 @@
-# Machine Learning Portfolio
-
 <h1 align = "left"> Hello, my name is Sonny! 🐣 </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sonny--Jones-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/sonnyjoness/ "Connect on LinkedIn")
