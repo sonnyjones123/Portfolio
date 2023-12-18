@@ -1,10 +1,13 @@
 <h1 align = "left"> Hello, my name is Sonny! 🐣 </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sonny_Jones-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sonnyjoness/)
-[![Twitter Bage](https://img.shields.io/badge/-Sonny_Jones-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sonny_joness)
-[![Website Badge](https://img.shields.io/badge/-NERVES_Lab-8A2BE2?style=for-the-badge)](https://nerves.bme.utah.edu/)
+[![Twitter Badge](https://img.shields.io/badge/-Sonny_Jones-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sonny_joness)
+[![Github Badge](https://img.shields.io/badge/-Sonny_Jones-3A3B3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonnyjones123)
+[![Website Badge](https://img.shields.io/badge/-NERVES_Lab-8A2BE2?style=for-the-badge&logo=squarespace&logoColor=white)](https://nerves.bme.utah.edu/)
 
 ---
+
+### About Me
 
 Data-driven researcher who is passionate about collaboration, innovation, and leveraging machine learning to solve complex problems in healthcare. I contribute to cutting-edge projects at the NERVES Lab and the Utah NeuroRobotics Lab at the University of Utah. I have designed wireless sEMG chips and programs to process body-worn sensor signals automatically. I have worked with complex machine learning systems for neuroprosthesis. Currently working to create a system that uses reinforcement learning to predict real-time gait transitions over difficult terrain. Seeking opportunities to develop my expertise in data science, artificial intelligence, and machine learning and drive impactful research through collaborative endeavors. Let's innovate together! #Innovation #MachineLearning #DeepLearning #AI #DataScience
 
