@@ -1,5 +1,23 @@
+### Gerneral Information
+# Name on Portfolio
 title: Sonny Jones
+
+# Name of Author (added to footer)
+author: Sonny Jones
+
+# 
 logo: /docs/assets/RoundPFP.png
-description: sonny.jones@utah.edu
+# description: sonny.jones@utah.edu
 # show_downloads: true
 theme: jekyll-theme-minimal
+
+### Social Media Links
+social-network-links:
+  email: "sonny.jones@utah.edu"
+  rss: true
+  github: sonnyjones123
+  twitter: sonny_joness
+
+share-links-active:
+  twitter: true
+  linkedin: true
