@@ -4,6 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Sonny_Jones-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sonny_joness)
 [![Github Badge](https://img.shields.io/badge/-Sonny_Jones-3A3B3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonnyjones123)
 [![Website Badge](https://img.shields.io/badge/-NERVES_Lab-8A2BE2?style=for-the-badge&logo=squarespace&logoColor=white)](https://nerves.bme.utah.edu/)
+[![Email](https://img.shields.io/badge/-Email-0072C6?style=for-the-badge&logo=outlook&logoColor=white)](mailto:sonny.jones@utah.edu)
 
 ---
 
@@ -54,14 +55,26 @@ Visual Studio Code | Jupyter | Git | PyCharm | QtCreator | Qualtrics | Adobe Sui
 ### Projects
 
 #### Lunar Lander Reinforcement Learning Agent [[View Project](https://www.coursera.org/learn/complete-reinforcement-learning-system)]  
-- Created a reinforcement learning Agent to learn how to land on a simulated moon.
+- Created a deep reinforcement learning agent to learn how to land on a simulated moon.
 - Software: Python, OpenAI Gym
-- Keywords: Reinforcement Learning, Function Approximation, NN, SARSA  
+- Keywords: Reinforcement Learning, Function Approximation, NN, SARSA, Q-Learning
+
+![](docs/assets/lunar_lander.gif)
+
+#### Singular Value Decomposition (SVD) for Trend Identification in Valorant Ranked Data [[View Project](https://github.com/sonnyjones123/ValorantDataSVD)]
+- Utilized SVD to identify trends in player statistics for Valorant.
+- Identified multiple significant statistics that might help differentiate players by rank.
+- Developed an NN (Multilayer Perceptron) classified to predict player rank from player statistics. 
+- Software: Python, Jupyter, Sklearn, Scipy
+- Keywords: SVD, MLP
+
+![](docs/assets/assists.png)
 
 #### Predicting Property Rental Prices [[View Project](https://app.datacamp.com/workspace/w/1a7460a2-c399-4343-9a48-6d6856768055)]
 - Developed machine learning models to predict property rental prices from housing data.
+- Utilized exploratory methods like correlation matrices and scaling for feature engineering. 
 - Software: Python, Sklearn
-- Keywords: Modeling, Regression, Decision Trees  
+- Keywords: Modeling, Regression, Decision Trees, KNN  
 
 #### Predicting Credit Card Approvals [[View Project](https://app.datacamp.com/workspace/w/09444c1a-dc78-4525-a510-0a9b048331e3)] 
 - Developed machine learning models based on previous approval data to predict credit card approval.
