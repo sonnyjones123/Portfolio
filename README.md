@@ -56,7 +56,7 @@ Visual Studio Code | Jupyter | Git | PyCharm | QtCreator | Qualtrics | Adobe Sui
 
 #### Lunar Lander Reinforcement Learning Agent [[View Project](https://www.coursera.org/learn/complete-reinforcement-learning-system)]  
 - Created a deep reinforcement learning agent to learn how to land on a simulated moon.
-- Software: Python, OpenAI Gym
+- Software: Python, Jupyter, OpenAI Gym
 - Keywords: Reinforcement Learning, Function Approximation, NN, SARSA, Q-Learning
 
 ![](docs/assets/lunar_lander.gif)
@@ -73,10 +73,12 @@ Visual Studio Code | Jupyter | Git | PyCharm | QtCreator | Qualtrics | Adobe Sui
 #### Predicting Property Rental Prices [[View Project](https://app.datacamp.com/workspace/w/1a7460a2-c399-4343-9a48-6d6856768055)]
 - Developed machine learning models to predict property rental prices from housing data.
 - Utilized exploratory methods like correlation matrices and scaling for feature engineering. 
-- Software: Python, Sklearn
-- Keywords: Modeling, Regression, Decision Trees, KNN  
+- Software: Python, Jupyter, Sklearn
+- Keywords: Modeling, Regression, Decision Trees, KNN
+
+![](docs/assets/KNNLocation.png)
 
 #### Predicting Credit Card Approvals [[View Project](https://app.datacamp.com/workspace/w/09444c1a-dc78-4525-a510-0a9b048331e3)] 
 - Developed machine learning models based on previous approval data to predict credit card approval.
-- Software: Python, Sklearn
+- Software: Python, Jupyter, Sklearn
 - Keywords: Modeling, Regression
