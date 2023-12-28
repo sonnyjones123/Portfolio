@@ -70,7 +70,7 @@ Visual Studio Code | Jupyter | Git | PyCharm | QtCreator | Qualtrics | Adobe Sui
 
 ![](docs/assets/assists.png)
 
-#### Predicting Property Rental Prices [[View Project](https://app.datacamp.com/workspace/w/1a7460a2-c399-4343-9a48-6d6856768055)]
+#### Predicting Property Rental Prices [[View Project](https://github.com/sonnyjones123/HouseRentalPricing)]
 - Developed machine learning models to predict property rental prices from housing data.
 - Utilized exploratory methods like correlation matrices and scaling for feature engineering.
 - Implemented stacking KNN and regression techniques to improve model performance.
