@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Sonny_Jones-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sonny_joness)
 [![Github Badge](https://img.shields.io/badge/-Sonny_Jones-3A3B3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonnyjones123)
 [![Website Badge](https://img.shields.io/badge/-NERVES_Lab-8A2BE2?style=for-the-badge&logo=squarespace&logoColor=white)](https://nerves.bme.utah.edu/)
-[![Email](https://img.shields.io/badge/-Email-0072C6?style=for-the-badge&logo=outlook&logoColor=white)](mailto:sonny.jones@utah.edu)
+[![Email](https://img.shields.io/badge/-Email-0072C6?style=for-the-badge&logo=mailgun&logoColor=white)](mailto:sonny.jones@utah.edu)
 
 ---
 
