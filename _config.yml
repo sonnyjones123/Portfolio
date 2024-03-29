@@ -21,6 +21,3 @@ social-network-links:
 share-links-active:
   twitter: true
   linkedin: true
-
-# Markdown
-markdown: kramdown
