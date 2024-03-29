@@ -20,7 +20,7 @@ Data-driven researcher passionate about collaboration, innovation, and leveragin
 
 #### Programming Skills  
 Proficient: Python | MATLAB | C/C++ | LabView  
-Familiar: Java | SQL
+Familiar: Java | SQL | R
 
 #### Tools and Software  
 Visual Studio Code | Jupyter | Git | PyCharm | QtCreator | Qualtrics | Adobe Suite | Fusion 360
