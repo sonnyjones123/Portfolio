@@ -76,7 +76,7 @@ Visual Studio Code | Jupyter | Git | PyCharm | QtCreator | Qualtrics | Adobe Sui
   - Project 4: Bayes Nets, Particle Filtering
 - Keywords: Python, AI, RL, Search
 
-<img src = https://inst.eecs.berkeley.edu/~cs188/fa21/assets/images/busters.png width = "560" height = "400">
+![](docs/assets/P4.png)
   
 #### Lunar Lander Reinforcement Learning Agent [[View Project](https://www.coursera.org/learn/complete-reinforcement-learning-system)]  
 - Created a deep reinforcement learning agent to learn how to land on a simulated moon.
