@@ -55,31 +55,36 @@ Visual Studio Code | Jupyter | Git | PyCharm | QtCreator | Qualtrics | Adobe Sui
   
 ### Projects 💻
 #### Machine Learning Library From Scratch [[View Project](https://github.com/sonnyjones123/MachineLearningLibrary)]
-- Implemented machine learning algorithms from scratch for the CS 6350 Machine Learning course project.
+- Implemented machine learning classification algorithms and cross-validation functions from scratch in Python.
+- Utilized custom library to achieve a top 10 score in the course Kaggle competition for NLP classification.
+- Performed feature transformation, dimensionality reduction, and hyperparameter tuning to increase model accuracies.
 - Algorithms:
   - Decision Tree Classifier: ID3 Implementation
   - Perceptron: Mistake Bound Implementation
   - Logistic Regression: Maximum Likelihood Estimation and Maximize a Posteriori Implementation
   - Support Vector Machine: Objective Function Minimization Implementation
   - Ensembles: Bagging, AdaBoost, SVM Over Trees
-- Achieved Top 10 classification performance in the class Course Project Kaggle.
-- Keywords: Python, Decision Tree, Perceptron, Logistic Regression, SVM, Ensembels
+- Keywords: Python, Decision Tree, Perceptron, Logistic Regression, SVM, Ensembles  
 
 ![](docs/assets/SVM.png)
 
 #### Helping Pac-Man Using AI Techniques [[View Project](https://github.com/sonnyjones123/PacmanAI)]
-- Implemented AI algorithms to help Pac-Man optimally collect food, create paths to locations, and search for ghosts.
-- Breakdown of Projects:
-  - Project 1: Search. BFS, DFS, A*
-  - Project 2: Minimax, Alpha-Beta, Expectimax
-  - Project 3: RL, Value and Policy Iteration, Q Learning
-  - Project 4: Bayes Nets, Particle Filtering
-- Keywords: Python, AI, RL, Search
+- Implemented various search algorithms (A*, Alpha-Beta, Expectimax) to solve navigation problems efficiently.  
+- Utilized RL methods to teach Pac-Man how to navigate the grid world environment and chase ghosts.  
+- Created probabilistic models using Bayes Nets/Particle Filtering to help Pac-Man hunt invisible ghosts from observations.  
+- Breakdown of Projects:  
+  - Project 1: Search. BFS, DFS, A*  
+  - Project 2: Minimax, Alpha-Beta, Expectimax  
+  - Project 3: RL, Value and Policy Iteration, Q Learning  
+  - Project 4: Bayes Nets, Particle Filtering  
+- Keywords: Python, AI, RL, Search  
 
 ![](docs/assets/P4.png)
   
 #### Lunar Lander Reinforcement Learning Agent [[View Project](https://www.coursera.org/learn/complete-reinforcement-learning-system)]  
-- Created a deep reinforcement learning agent to learn how to land on a simulated moon.
+- Implemented reinforcement learning algorithms to control agent to land on a simulated moon in OpenAI Gym.
+- Trained deep Q-Learning network with RMSProp to control action selection.
+- Explored the effects of different learning parameters on agent success and behavior. 
 - Software: Python, Jupyter, OpenAI Gym
 - Keywords: Reinforcement Learning, Function Approximation, NN, SARSA, Q-Learning
 
