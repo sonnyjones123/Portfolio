@@ -64,6 +64,7 @@ Visual Studio Code | Jupyter | Git | PyCharm | QtCreator | Qualtrics | Adobe Sui
   - Logistic Regression: Maximum Likelihood Estimation and Maximize a Posteriori Implementation
   - Support Vector Machine: Objective Function Minimization Implementation
   - Ensembles: Bagging, AdaBoost, SVM Over Trees
+<!-- end of list -->
 - Keywords: Python, Decision Tree, Perceptron, Logistic Regression, SVM, Ensembles  
 
 ![](docs/assets/SVM.png)
@@ -76,7 +77,8 @@ Visual Studio Code | Jupyter | Git | PyCharm | QtCreator | Qualtrics | Adobe Sui
   - Project 1: Search. BFS, DFS, A*  
   - Project 2: Minimax, Alpha-Beta, Expectimax  
   - Project 3: RL, Value and Policy Iteration, Q Learning  
-  - Project 4: Bayes Nets, Particle Filtering  
+  - Project 4: Bayes Nets, Particle Filtering
+<!-- end of list -->
 - Keywords: Python, AI, RL, Search  
 
 ![](docs/assets/P4.png)
