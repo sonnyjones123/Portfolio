@@ -54,6 +54,19 @@ Visual Studio Code | Jupyter | Git | PyCharm | QtCreator | Qualtrics | Adobe Sui
 ---
   
 ### Projects 💻
+#### Machine Learning Library From Scratch [[View Project](https://github.com/sonnyjones123/MachineLearningLibrary)]
+- Implemented machine learning algorithms from scratch for the CS 6350 Machine Learning course project.
+- Algorithms:
+    - Decision Tree Classifier: ID3 Implementation
+    - Perceptron: Mistake Bound Implementation
+    - Logistic Regression: Maximum Likelihood Estimation and Maximize a Posteriori Implementation
+    - Support Vector Machine: Objective Function Minimization Implementation
+    - Ensembles: Bagging, AdaBoost, SVM Over Trees
+- Achieved Top 10 classification performance in the class Course Project Kaggle.
+- Keywords: Python, Decision Tree, Perceptron, Logistic Regression, SVM, Ensembels
+
+![](docs/assets/SVM.png)
+  
 #### Lunar Lander Reinforcement Learning Agent [[View Project](https://www.coursera.org/learn/complete-reinforcement-learning-system)]  
 - Created a deep reinforcement learning agent to learn how to land on a simulated moon.
 - Software: Python, Jupyter, OpenAI Gym
