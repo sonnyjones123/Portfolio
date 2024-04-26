@@ -11,7 +11,7 @@
 
 ### About Me 📰
 
-Data-driven researcher passionate about collaboration, innovation, and leveraging machine learning to solve complex problems in healthcare. I contribute to cutting-edge projects at the NERVES Lab and the Utah NeuroRobotics Lab at the University of Utah. I have designed wireless sEMG chips and MATLAB programs to process body-worn sensor signals automatically. I have worked with complex machine learning systems for neuroprosthesis. Currently working to create a system that uses methods from reinforcement learning to predict real-time gait transitions over difficult terrain in Python. Seeking opportunities to develop my expertise in artificial intelligence and machine learning to drive impactful research through collaborative endeavors. Let's innovate together! #Innovation #MachineLearning #DeepLearning #AI #DataScience
+Data-driven researcher passionate about collaboration, innovation, and leveraging machine learning to solve complex problems in healthcare. I contribute to cutting-edge projects at the NERVES Lab and the Utah NeuroRobotics Lab at the University of Utah. I have designed wireless sEMG chips and MATLAB programs to process body-worn sensor signals automatically. I have worked with complex machine learning systems for neuroprosthesis. Currently working to create a system that uses methods from reinforcement learning to predict real-time gait transitions over difficult terrain in Python. Seeking opportunities to develop my expertise in artificial intelligence and machine learning to drive impactful research through collaborative endeavors. Let's innovate together! #Innovation #MachineLearning # Reinforcement Learning #DeepLearning #AI #DataScience
 
 - I'm currently pursuing my Ph.D in Biomedical Engineering with an emphasis in Data Science and Computation 💻
 - I'm currently a Graduate Research Assistant for the NERVES Lab, University of Utah 🧠
@@ -57,15 +57,26 @@ Visual Studio Code | Jupyter | Git | PyCharm | QtCreator | Qualtrics | Adobe Sui
 #### Machine Learning Library From Scratch [[View Project](https://github.com/sonnyjones123/MachineLearningLibrary)]
 - Implemented machine learning algorithms from scratch for the CS 6350 Machine Learning course project.
 - Algorithms:
-    - Decision Tree Classifier: ID3 Implementation
-    - Perceptron: Mistake Bound Implementation
-    - Logistic Regression: Maximum Likelihood Estimation and Maximize a Posteriori Implementation
-    - Support Vector Machine: Objective Function Minimization Implementation
-    - Ensembles: Bagging, AdaBoost, SVM Over Trees
+  - Decision Tree Classifier: ID3 Implementation
+  - Perceptron: Mistake Bound Implementation
+  - Logistic Regression: Maximum Likelihood Estimation and Maximize a Posteriori Implementation
+  - Support Vector Machine: Objective Function Minimization Implementation
+  - Ensembles: Bagging, AdaBoost, SVM Over Trees
 - Achieved Top 10 classification performance in the class Course Project Kaggle.
 - Keywords: Python, Decision Tree, Perceptron, Logistic Regression, SVM, Ensembels
 
 ![](docs/assets/SVM.png)
+
+#### Helping Pac-Man Using AI Techniques [[View Project](https://github.com/sonnyjones123/PacmanAI)]
+- Implemented AI algorithms to help Pac-Man optimally collect food, create paths to locations, and search for ghosts.
+- Breakdown of Projects:
+  - Project 1: Search. BFS, DFS, A*
+  - Project 2: Minimax, Alpha-Beta, Expectimax
+  - Project 3: RL, Value and Policy Iteration, Q Learning
+  - Project 4: Bayes Nets, Particle Filtering
+- Keywords: Python, AI, RL, Search
+
+<img src = https://inst.eecs.berkeley.edu/~cs188/fa21/assets/images/busters.png width = "560" height = "400">
   
 #### Lunar Lander Reinforcement Learning Agent [[View Project](https://www.coursera.org/learn/complete-reinforcement-learning-system)]  
 - Created a deep reinforcement learning agent to learn how to land on a simulated moon.
