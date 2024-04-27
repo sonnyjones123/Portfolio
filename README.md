@@ -70,7 +70,7 @@ Visual Studio Code | Jupyter | Git | PyCharm | QtCreator | Qualtrics | Adobe Sui
     </ul>
   </li>
   <li>Keywords: Python, Decision Tree, Perceptron, Logistic Regression, SVM, Ensembles </li>
-</ul>
+</ul><br>
 
 ![](docs/assets/SVM.png)
 
@@ -88,7 +88,7 @@ Visual Studio Code | Jupyter | Git | PyCharm | QtCreator | Qualtrics | Adobe Sui
     </ul>
   </li>
   <li>Keywords: Python, Artificial Intelligence (AI), Reinforcement Learning (RL), Search, Bayes Nets </li>
-</ul>
+</ul><br>
 
 ![](docs/assets/P4.png)
   
