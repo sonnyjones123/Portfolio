@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <style>
+    ul {
+      margin-bottom: 0;
+    }
+  </style>
+</head>
+<body>
+
 <h1 align = "left"> Hello, my name is Sonny! 🐣 </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sonny_Jones-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sonnyjoness/)
@@ -122,3 +133,6 @@ Visual Studio Code | Jupyter | Git | PyCharm | QtCreator | Qualtrics | Adobe Sui
 - Developed machine learning models based on previous approval data to predict credit card approval.
 - Software: Python, Jupyter, Sklearn
 - Keywords: Modeling, Regression
+
+</body>
+</html>
