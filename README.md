@@ -59,7 +59,7 @@ Visual Studio Code | Jupyter | Git | PyCharm | QtCreator | Qualtrics | Adobe Sui
 <ul>
   <li>Implemented machine learning classification algorithms and cross-validation functions from scratch in Python. </li>
   <li>Utilized custom library to achieve a top 10 score in the course Kaggle competition for NLP classification. </li>
-  <li>Performed feature transformation, dimensionality reduction, and hyperparameter tuning to increase model accuracies.</li>
+  <li>Performed feature transformation, dimensionality reduction, and hyperparameter tuning to increase model accuracies. </li>
   <li>Algorithms:
     <ul>
       <li>Decision Tree Classifier: ID3 Implementation </li>
@@ -70,7 +70,7 @@ Visual Studio Code | Jupyter | Git | PyCharm | QtCreator | Qualtrics | Adobe Sui
     </ul>
   </li>
   <li>Keywords: Python, Decision Tree, Perceptron, Logistic Regression, SVM, Ensembles </li>
-</ul><br>
+</ul>
 
 ![](docs/assets/SVM.png)
 
@@ -92,34 +92,42 @@ Visual Studio Code | Jupyter | Git | PyCharm | QtCreator | Qualtrics | Adobe Sui
 
 ![](docs/assets/P4.png)
   
-#### Lunar Lander Reinforcement Learning Agent [[View Project](https://www.coursera.org/learn/complete-reinforcement-learning-system)]  
-- Implemented reinforcement learning algorithms to control agents to land on a simulated moon in OpenAI Gym.
-- Trained deep Q-Learning network with RMSProp to control action selection.
-- Explored the effects of different learning parameters on agent success and behavior. 
-- Software: Python, Jupyter, OpenAI Gym
-- Keywords: Reinforcement Learning (RL), Function Approximation, SARSA, Q-Learning
+#### Lunar Lander Reinforcement Learning Agent [[View Project](https://www.coursera.org/learn/complete-reinforcement-learning-system)]
+<ul>
+  <li>Implemented reinforcement learning algorithms to control agents to land on a simulated moon in OpenAI Gym. </li>
+  <li>Trained deep Q-Learning network with RMSProp to control action selection. </li>
+  <li>Explored the effects of different learning parameters on agent success and behavior. </li>
+  <li>Software: Python, Jupyter, OpenAI Gym </li>
+  <li>Keywords: Reinforcement Learning (RL), Function Approximation, SARSA, Q-Learning </li>
+</ul><br>
 
 ![](docs/assets/lunar_lander.gif)
 
 #### Singular Value Decomposition (SVD) for Trend Identification in Valorant Ranked Data [[View Project](https://github.com/sonnyjones123/ValorantDataSVD)]
-- Utilized SVD to identify trends in player statistics for Valorant.
-- Identified multiple significant statistics that might help differentiate players by rank.
-- Developed an NN (Multilayer Perceptron) classifier to predict player rank from player statistics. 
-- Software: Python, Jupyter, Sklearn, Scipy
-- Keywords: SVD, MLP
+<ul>
+  <li>Utilized SVD to identify trends in player statistics for Valorant. </li>
+  <li>Identified multiple significant statistics that might help differentiate players by rank. </li>
+  <li>Developed an NN (Multilayer Perceptron) classifier to predict player rank from player statistics.</li>
+  <li>Software: Python, Jupyter, Sklearn, SciPy </li>
+  <li>Keywords: SVD, MLP </li>
+</ul><br>
 
 ![](docs/assets/assists.png)
 
 #### Predicting Property Rental Prices [[View Project](https://github.com/sonnyjones123/HouseRentalPricing)]
-- Developed machine learning models to predict property rental prices from housing data.
-- Utilized exploratory methods like correlation matrices and scaling for feature engineering.
-- Implemented stacking KNN and regression techniques to improve model performance.
-- Software: Python, Jupyter, Sklearn
-- Keywords: Modeling, Regression, Decision Trees, KNN
+<ul>
+  <li>Developed machine learning models to predict property rental prices from housing data. </li>
+  <li>Utilized exploratory methods like correlation matrices and scaling for feature engineering. </li>
+  <li>Implemented stacking KNN and regression techniques to improve model performance. </li>
+  <li>Software: Python, Jupyter, Sklearn </li>
+  <li>Keywords: Modeling, Regression, Decision Trees, KNN </li>
+</ul><br>
 
 ![](docs/assets/KNNLocation.png)
 
 #### Predicting Credit Card Approvals [[View Project](https://app.datacamp.com/workspace/w/09444c1a-dc78-4525-a510-0a9b048331e3)] 
-- Developed machine learning models based on previous approval data to predict credit card approval.
-- Software: Python, Jupyter, Sklearn
-- Keywords: Modeling, Regression
+<ul> 
+  <li>Developed machine learning models based on previous approval data to predict credit card approval. </li> 
+  <li>Software: Python, Jupyter, Sklearn </li> 
+  <li>Keywords: Modeling, Regression </li> 
+</ul>
