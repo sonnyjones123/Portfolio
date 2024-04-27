@@ -55,40 +55,48 @@ Visual Studio Code | Jupyter | Git | PyCharm | QtCreator | Qualtrics | Adobe Sui
   
 ### Projects 💻
 #### Machine Learning Library From Scratch [[View Project](https://github.com/sonnyjones123/MachineLearningLibrary)]
-- Implemented machine learning classification algorithms and cross-validation functions from scratch in Python.
-- Utilized custom library to achieve a top 10 score in the course Kaggle competition for NLP classification.
-- Performed feature transformation, dimensionality reduction, and hyperparameter tuning to increase model accuracies.
-- Algorithms:
-  - Decision Tree Classifier: ID3 Implementation
-  - Perceptron: Mistake Bound Implementation
-  - Logistic Regression: Maximum Likelihood Estimation and Maximize a Posteriori Implementation
-  - Support Vector Machine: Objective Function Minimization Implementation
-  - Ensembles: Bagging, AdaBoost, SVM Over Trees
-<!-- end of list -->
-- Keywords: Python, Decision Tree, Perceptron, Logistic Regression, SVM, Ensembles  
+<ul>
+  <li>Implemented machine learning classification algorithms and cross-validation functions from scratch in Python. </li>
+  <li>Utilized custom library to achieve a top 10 score in the course Kaggle competition for NLP classification. </li>
+  <li>Performed feature transformation, dimensionality reduction, and hyperparameter tuning to increase model accuracies.</li>
+  <li>Algorithms:
+    <ul>
+      <li>Decision Tree Classifier: ID3 Implementation </li>
+      <li>Perceptron: Mistake Bound Implementation </li>
+      <li>Logistic Regression: Maximum Likelihood Estimation and Maximize a Posteriori Implementation </li>
+      <li>Support Vector Machine: Objective Function Minimization Implementation </li>
+      <li>Ensembles: Bagging, AdaBoost, SVM Over Trees
+    </ul>
+  </li>
+  <li>Keywords: Python, Decision Tree, Perceptron, Logistic Regression, SVM, Ensembles </li>
+</ul>
 
 ![](docs/assets/SVM.png)
 
 #### Helping Pac-Man Using AI Techniques [[View Project](https://github.com/sonnyjones123/PacmanAI)]
-- Implemented various search algorithms (A*, Alpha-Beta, Expectimax) to solve navigation problems efficiently.  
-- Utilized RL methods to teach Pac-Man how to navigate the grid world environment and chase ghosts.  
-- Created probabilistic models using Bayes Nets/Particle Filtering to help Pac-Man hunt invisible ghosts from observations.  
-- Breakdown of Projects:  
-  - Project 1: Search. BFS, DFS, A*  
-  - Project 2: Minimax, Alpha-Beta, Expectimax  
-  - Project 3: RL, Value and Policy Iteration, Q Learning  
-  - Project 4: Bayes Nets, Particle Filtering
-<!-- end of list -->
-- Keywords: Python, AI, RL, Search  
+<ul>
+  <li>Implemented various search algorithms (A*, Alpha-Beta, Expectimax) to solve navigation problems efficiently. </li>
+  <li>Utilized RL methods to teach Pac-Man how to navigate the grid world environment and chase ghosts. </li>
+  <li>Created probabilistic models using Bayes Nets/Particle Filtering to help Pac-Man hunt invisible ghosts from observations. </li>
+  <li>Breakdown of Projects: 
+    <ul>
+      <li>Project 1: Search. BFS, DFS, A* </li>
+      <li>Project 2: Minimax, Alpha-Beta, Expectimax </li>
+      <li>Project 3: RL, Value and Policy Iteration, Q-Learning
+      <li>Project 4: Bayes Nets, Particle Filtering </li>
+    </ul>
+  </li>
+  <li>Keywords: Python, Artificial Intelligence (AI), Reinforcement Learning (RL), Search, Bayes Nets </li>
+</ul>
 
 ![](docs/assets/P4.png)
   
 #### Lunar Lander Reinforcement Learning Agent [[View Project](https://www.coursera.org/learn/complete-reinforcement-learning-system)]  
-- Implemented reinforcement learning algorithms to control agent to land on a simulated moon in OpenAI Gym.
+- Implemented reinforcement learning algorithms to control agents to land on a simulated moon in OpenAI Gym.
 - Trained deep Q-Learning network with RMSProp to control action selection.
 - Explored the effects of different learning parameters on agent success and behavior. 
 - Software: Python, Jupyter, OpenAI Gym
-- Keywords: Reinforcement Learning, Function Approximation, NN, SARSA, Q-Learning
+- Keywords: Reinforcement Learning (RL), Function Approximation, SARSA, Q-Learning
 
 ![](docs/assets/lunar_lander.gif)
 
