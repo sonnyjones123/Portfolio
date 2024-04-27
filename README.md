@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" href="style.css">
 <h1 align = "left"> Hello, my name is Sonny! 🐣 </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sonny_Jones-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sonnyjoness/)
@@ -66,7 +67,7 @@ Visual Studio Code | Jupyter | Git | PyCharm | QtCreator | Qualtrics | Adobe Sui
       <li>Logistic Regression: Maximum Likelihood Estimation and Maximize a Posteriori Implementation </li>
       <li>Support Vector Machine: Objective Function Minimization Implementation </li>
       <li>Ensembles: Bagging, AdaBoost, SVM Over Trees </li>
-    </ul>&nbsp;
+    </ul>
   </li>
   <li>Keywords: Python, Decision Tree, Perceptron, Logistic Regression, SVM, Ensembles </li>
 </ul>
@@ -84,7 +85,7 @@ Visual Studio Code | Jupyter | Git | PyCharm | QtCreator | Qualtrics | Adobe Sui
       <li>Project 2: Minimax, Alpha-Beta, Expectimax </li>
       <li>Project 3: RL, Value and Policy Iteration, Q-Learning </li>
       <li>Project 4: Bayes Nets, Particle Filtering </li>
-    </ul>&nbsp;
+    </ul>
   </li>
   <li>Keywords: Python, Artificial Intelligence (AI), Reinforcement Learning (RL), Search, Bayes Nets </li>
 </ul>
