@@ -13,11 +13,12 @@
 ### About Me 📰
 
 Data-driven researcher passionate about collaboration, innovation, and leveraging machine learning to solve complex problems in healthcare. I contribute to cutting-edge projects at the NERVES Lab and the Utah NeuroRobotics Lab at the University of Utah. I have designed wireless sEMG chips and MATLAB programs to process body-worn sensor signals automatically. I have worked with complex machine learning systems for neuroprosthesis. Currently working to create a system that uses methods from reinforcement learning to predict real-time gait transitions over difficult terrain in Python. Seeking opportunities to develop my expertise in artificial intelligence and machine learning to drive impactful research through collaborative endeavors. Let's innovate together! #Innovation #MachineLearning # ReinforcementLearning #DeepLearning #AI #DataScience
-
-- I'm currently pursuing my Ph.D in Biomedical Engineering with an emphasis in Data Science and Computation 💻
-- I'm currently a Graduate Research Assistant for the NERVES Lab, University of Utah 🧠
-- Appropriate coursework: Data Science for Biomedical Engineers, Reinforcement Learning Specialization, Machine Learning, Artificial Intelligence
-- Interested in Machine Learning, Deep Learning, and AI 🦾 <br>
+<ul>
+  <li>I'm currently pursuing my Ph.D in Biomedical Engineering with an emphasis in Data Science and Computation 💻 </li>
+  <li>I'm currently a Graduate Research Assistant for the NERVES Lab, University of Utah 🧠 </li>
+  <li>Appropriate coursework: Data Science for Biomedical Engineers, Reinforcement Learning Specialization, Machine Learning, Artificial Intelligence </li>
+  <li>Interested in Machine Learning, Deep Learning, and AI 🦾 </li>
+</ul><br>
 
 #### Programming Skills  
 Proficient: Python | MATLAB | C/C++ | LabView  
