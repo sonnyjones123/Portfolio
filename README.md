@@ -65,7 +65,7 @@ Visual Studio Code | Jupyter | Git | PyCharm | QtCreator | Qualtrics | Adobe Sui
       <li>Perceptron: Mistake Bound Implementation </li>
       <li>Logistic Regression: Maximum Likelihood Estimation and Maximize a Posteriori Implementation </li>
       <li>Support Vector Machine: Objective Function Minimization Implementation </li>
-      <li>Ensembles: Bagging, AdaBoost, SVM Over Trees
+      <li>Ensembles: Bagging, AdaBoost, SVM Over Trees </li>
     </ul>
   </li>
   <li>Keywords: Python, Decision Tree, Perceptron, Logistic Regression, SVM, Ensembles </li>
@@ -82,7 +82,7 @@ Visual Studio Code | Jupyter | Git | PyCharm | QtCreator | Qualtrics | Adobe Sui
     <ul>
       <li>Project 1: Search. BFS, DFS, A* </li>
       <li>Project 2: Minimax, Alpha-Beta, Expectimax </li>
-      <li>Project 3: RL, Value and Policy Iteration, Q-Learning
+      <li>Project 3: RL, Value and Policy Iteration, Q-Learning </li>
       <li>Project 4: Bayes Nets, Particle Filtering </li>
     </ul>
   </li>
