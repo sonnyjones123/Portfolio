@@ -27,7 +27,7 @@ Proficient: Python | MATLAB | C/C++ | LabView
 Familiar: Java | SQL | R
 
 #### Tools and Software  
-Visual Studio Code | Jupyter | Git | PyCharm | QtCreator | Qualtrics | Adobe Suite | Fusion 360
+Visual Studio Code | Jupyter | QtCreator | PyCharm | Git | Anaconda | LaTeX
 
 ---
 
