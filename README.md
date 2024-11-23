@@ -17,8 +17,8 @@ Data-driven researcher passionate about collaboration, innovation, and leveragin
   <ul>
     <li>I'm currently pursuing my Ph.D in Biomedical Engineering with an emphasis in Data Science and Computation 💻 </li>
     <li>I'm currently a Graduate Research Assistant for the NERVES Lab, University of Utah 🧠 </li>
-    <li>Appropriate coursework: Data Science for Biomedical Engineers, Reinforcement Learning Specialization, Machine Learning, Artificial Intelligence </li>
-    <li>Interested in Machine Learning, Deep Learning, and AI 🦾 </li>
+    <li>Appropriate coursework: Data Science for Biomedical Engineers, Reinforcement Learning Specialization, Machine Learning, Artificial Intelligence, Deep Learning </li>
+    <li>Interested in Machine Learning, Reinforcement Learning, Deep Learning, and AI 🦾 </li>
   </ul>
 </p>
 
