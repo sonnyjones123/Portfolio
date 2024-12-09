@@ -23,8 +23,8 @@ Data-driven researcher passionate about collaboration, innovation, and leveragin
 </p>
 
 #### Programming Skills  
-Proficient: Python | MATLAB | C/C++ | LabView  
-Familiar: Java | SQL | R
+Proficient: Python | MATLAB  
+Familiar: C/C++ | LabView | Java | SQL | R
 
 #### Tools and Software  
 Visual Studio Code | Jupyter | QtCreator | PyCharm | Git | Anaconda | LaTeX
