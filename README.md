@@ -56,10 +56,10 @@ Visual Studio Code | Jupyter | QtCreator | PyCharm | Git | Anaconda | LaTeX
 ---
   
 ### Research Experience 🥼
-#### Graduate Research Assistant @ NERVES Lab  
-#### Research Assistant @ NeuroRobotics Lab
+#### Graduate Research Assistant @ [NERVES Lab](https://nerves.bme.utah.edu/)  
+#### Research Assistant @ [NeuroRobotics Lab](https://neurorobotics.ece.utah.edu/)
 #### Research Analyst/Assistant @ [TORCH](https://medicine.utah.edu/internal-medicine/epidemiology/research-programs/torch) 
-#### Undergraduate Research Assistant @ Center for Neural Interfaces  
+#### Undergraduate Research Assistant @ [Center for Neural Interfaces](https://cni.bme.utah.edu/)
 
 ---
   
