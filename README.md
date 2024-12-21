@@ -12,12 +12,17 @@
 
 ### About Me 📰
 
-Data-driven researcher passionate about collaboration, innovation, and leveraging machine learning to solve complex problems in healthcare. I contribute to cutting-edge projects at the NERVES Lab and the Utah NeuroRobotics Lab at the University of Utah. I have designed wireless sEMG chips and MATLAB programs to process body-worn sensor signals automatically. I have worked with complex machine learning systems for neuroprosthesis. Currently working to create a system that uses methods from reinforcement learning to predict real-time gait transitions over difficult terrain in Python. Seeking opportunities to develop my expertise in artificial intelligence and machine learning to drive impactful research through collaborative endeavors. Let's innovate together! #Innovation #MachineLearning # ReinforcementLearning #DeepLearning #AI #DataScience
+As a passionate data-driven researcher, I thrive on collaboration and innovation, particularly in leveraging machine learning to revolutionize healthcare. I contribute to cutting-edge projects at the NERVES Lab and the Utah NeuroRobotics Lab at the University of Utah. My work included designing wireless sEMG chips, programs to process body-worn sensor signals automatically, and developing cognitive workload measurements for complex machine learning systems for neuroprosthesis. 
+
+Currently, I am working to create advanced learning systems that use state-of-the-art reinforcement learning algorithms to control exoskeletons for post-stroke assistance while walking on and between different terrains. I am seeking opportunities to develop my expertise in data science, artificial intelligence, and machine learning and drive impactful research through collaborative endeavors.
+
+Let's innovate together! #ML #AI # RL#DataScience
+
 <p>
   <ul>
     <li>I'm currently pursuing my Ph.D in Biomedical Engineering with an emphasis in Data Science and Computation 💻 </li>
     <li>I'm currently a Graduate Research Assistant for the NERVES Lab, University of Utah 🧠 </li>
-    <li>Appropriate coursework: Data Science for Biomedical Engineers, Reinforcement Learning Specialization, Machine Learning, Artificial Intelligence, Deep Learning </li>
+    <li>Appropriate coursework: Data Science for Biomedical Engineers, Reinforcement Learning Specialization, Machine Learning, Artificial Intelligence, Deep Learning, NeuroRobotics </li>
     <li>Interested in Machine Learning, Reinforcement Learning, Deep Learning, and AI 🦾 </li>
   </ul>
 </p>
