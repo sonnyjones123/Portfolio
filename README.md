@@ -80,18 +80,10 @@ Visual Studio Code | Jupyter | QtCreator | PyCharm | Git | Anaconda | LaTeX
 #### Machine Learning Library From Scratch [[View Project](https://github.com/sonnyjones123/MachineLearningLibrary)]
 <p>
   <ul>
-    <li>Implemented machine learning classification algorithms and cross-validation functions from scratch in Python. </li>
-    <li>Utilized custom library to achieve a top 10 score in the course Kaggle competition for NLP classification. </li>
+    <li>Built a custom Python ML library with cross‑validation to support ID3, perceptron, logistic‑regression, and SVM classifiers. </li>
+    <li>Leveraged library to secure a top‑10 finish out of 150+ teams in a course Kaggle NLP classification challenge. </li>
     <li>Performed feature transformation, dimensionality reduction, and hyperparameter tuning to increase model accuracy. </li>
-    <li>Algorithms:
-      <ul>
-        <li>Decision Tree Classifier: ID3 Implementation </li>
-        <li>Perceptron: Mistake Bound Implementation </li>
-        <li>Logistic Regression: Maximum Likelihood Estimation and Maximize a Posteriori Implementation </li>
-        <li>Support Vector Machine: Objective Function Minimization Implementation </li>
-        <li>Ensembles: Bagging, AdaBoost, SVM Over Trees </li>
-      </ul>
-    </li>
+    <li>Algorithms: ID3 decision tree, mistake‑bound perceptron, MLE/MAP logistic regression, objective‑minimization SVM, ensemble methods (bagging, AdaBoost, SVM‑over‑trees)</li>
     <li>Keywords: Python, Decision Tree, Perceptron, Logistic Regression, SVM, Ensembles </li>
   </ul>
 </p>
