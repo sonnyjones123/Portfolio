@@ -14,7 +14,7 @@
 
 As a passionate data-driven researcher, I thrive on collaboration and innovation, particularly in leveraging machine learning to revolutionize healthcare. I contribute to cutting-edge projects at the NERVES Lab and the Utah NeuroRobotics Lab at the University of Utah. My work included designing wireless sEMG chips, programs to process body-worn sensor signals automatically, and developing cognitive workload measurements for complex machine learning systems for neuroprosthesis. 
 
-Currently, I am working to create advanced learning systems that use state-of-the-art reinforcement learning algorithms to control exoskeletons for post-stroke assistance while walking on and between different terrains. I am seeking opportunities to develop my expertise in data science, artificial intelligence, and machine learning and drive impactful research through collaborative endeavors.
+I am working to create advanced learning systems that use state-of-the-art reinforcement learning algorithms to control exoskeletons for post-stroke assistance while walking on and between different terrains. I seek opportunities to develop my data science, artificial intelligence, and machine learning expertise and drive impactful research through collaborative endeavors.
 
 Let's innovate together! #ML #AI # RL#DataScience
 
@@ -64,12 +64,25 @@ Visual Studio Code | Jupyter | QtCreator | PyCharm | Git | Anaconda | LaTeX
 ---
   
 ### Projects 💻
+
+#### Fine-Tuning Faster R-CNN for Guardrail Damage Detection [[View Project](https://github.com/sonnyjones123/BlyncsySFT)]
+<p>
+  <ul>
+    <li>Researched and implemented advanced fine‑tuning strategies on a Faster R‑CNN to detect guardrail damage, improving detection accuracy by 5% and decreasing false positives by 92% for <a href="https://www.blyncsy.com/">Blyncsy, Inc.</a> </li>
+    <li>Designed a saliency‑scoring pipeline leveraging pre‑trained networks to automatically verify ground truth labels in the training and testing sets, automatically finding errors in roughly 10% of images. </li>
+    <li>Engineered end‑to‑end training pipelines for a custom Faster R‑CNN, packaged as the <a href="https://pypi.org/project/BlyncsySFT/">BlyncsySFT</a> pip module for easy deployment and reproducibility.
+    <li>Keywords: Python, PyTorch, Object Detection, Pip</li>
+  </ul>
+</p>
+
+![](docs/assets/fasterrcnndamage.png)
+
 #### Machine Learning Library From Scratch [[View Project](https://github.com/sonnyjones123/MachineLearningLibrary)]
 <p>
   <ul>
     <li>Implemented machine learning classification algorithms and cross-validation functions from scratch in Python. </li>
     <li>Utilized custom library to achieve a top 10 score in the course Kaggle competition for NLP classification. </li>
-    <li>Performed feature transformation, dimensionality reduction, and hyperparameter tuning to increase model accuracies. </li>
+    <li>Performed feature transformation, dimensionality reduction, and hyperparameter tuning to increase model accuracy. </li>
     <li>Algorithms:
       <ul>
         <li>Decision Tree Classifier: ID3 Implementation </li>
