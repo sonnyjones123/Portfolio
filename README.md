@@ -2,7 +2,8 @@
 <h1 align = "left"> Hello, my name is Sonny! 🐣 </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sonny_Jones-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sonnyjoness/)
-[![Twitter Badge](https://img.shields.io/badge/-Sonny_Jones-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sonny_joness)
+[![Twitter Badge](https://img.shields.io/badge/-Sonny_Jones-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/sonny_joness)
+[![Google Scholar Badge](https://img.shields.io/badge/-Sonny_Jones-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=rJjP8KcAAAAJ&hl=en)
 [![Github Badge](https://img.shields.io/badge/-Sonny_Jones-3A3B3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonnyjones123)
 [![Website Badge](https://img.shields.io/badge/-NERVES_Lab-8A2BE2?style=for-the-badge&logo=squarespace&logoColor=white)](https://nerves.bme.utah.edu/)
 [![Email](https://img.shields.io/badge/-Email-0072C6?style=for-the-badge&logo=mailgun&logoColor=white)](mailto:sonny.jones@utah.edu)
@@ -44,7 +45,7 @@ Visual Studio Code | Jupyter | QtCreator | PyCharm | Git | Anaconda | LaTeX
 ---
 
 ### Certification 📃
-#### Graduate Certificate in Deep Learning (In-Progress) (University of Utah)  
+#### Graduate Certificate in Deep Learning (University of Utah)  
 [[Certification Homepage](https://www.cs.utah.edu/graduate/academic-programs/certificate-programs/graduate-certificate-in-deep-learning/)]  
 #### Reinforcement Learning Specialization (University of Alberta & Alberta Machine Intelligence Institute)  
 [[Specialization Homepage](https://www.coursera.org/specializations/reinforcement-learning)][[View Certificate](https://www.coursera.org/verify/specialization/CWUW9VCJAC87)]  
